@@ -1,3 +1,5 @@
 public class SkillDemo{
-//Going to edit in github desktop
+    public static int sub(int a, int b){
+        return a-b;
+    }
 }
